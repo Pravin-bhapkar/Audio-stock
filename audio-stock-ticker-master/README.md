@@ -1,3 +1,7 @@
+//I am not an Author of this repo. I am new and using someone else repo to learn IOT.
+
+//Here you will get Actual author and master : https://github.com/resin-io-playground/audio-stock-ticker
+
 ## Audio Stock Ticker
 
 This is a simple node.js project built on [resin.io][resin-link]. It should work on all versions of the Raspberry Pi.
